@@ -11,7 +11,7 @@ Discord: https://discord.gg/nitrotypebot
 ```json
 {
     "KEY": "put your license key here",
-    "CAPSOLVER_KEY": "put your capsolver key here"
+    "CAPSOLVER_KEY": "put your capsolver key here",
     "FAST_MODE": false
 }
 ```
