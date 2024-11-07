@@ -1,8 +1,9 @@
 # AutoTyper-XYZ
 This is the downloadable for the console version of the famous NitroType Bot known as AutoTyper XYZ
 
-### Discord
-Discord: https://discord.gg/nitrotypebot
+### Support
+- Discord: https://discord.gg/nitrotypebot
+- Lifetime Purchase: $20  
 
 ### Setup
 - [Download Python Version 3.11.5](https://www.python.org/downloads/)
