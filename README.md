@@ -16,5 +16,5 @@ Discord: https://discord.gg/nitrotypebot
 }
 ```
 Capsolver is recommended if you want to use Fast Mode, you can enable this by setting the value to true
-- Add your NitroType accounts into the file named accounts.txt and be sure to use username:password format
+- Add your NitroType accounts into the file named accounts.txt and be sure to use `username:password` format
 - Run main.py or start.bat
