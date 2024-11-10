@@ -11,9 +11,19 @@ This is the downloadable for the console version of the famous NitroType Bot kno
 - Set up the config.json
 ```json
 {
-    "KEY": "put your license key here",
-    "CAPSOLVER_KEY": "put your capsolver key here",
-    "FAST_MODE": false
+    "KEY": "license key",
+    "CAPSOLVER": {
+        "ENABLE": false,
+        "CAPSOLVER_KEY": "capsolver is highly recommended"
+    },
+    "RACE_FUNCTION":{
+        "FAST_MODE": false,
+        "WPM_RANGE": [80,90]
+    },
+    "LOGGING":{
+        "ENABLE": false,
+        "WEBHOOK": "put webhook ID"
+    }
 }
 ```
 Capsolver is recommended if you want to use Fast Mode, you can enable this by setting the value to true
