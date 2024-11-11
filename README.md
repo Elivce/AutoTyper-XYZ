@@ -27,7 +27,9 @@ This is the downloadable for the console version of the famous NitroType Bot kno
     }
 }
 ```
-Capsolver is recommended if you want to use Fast Mode, you can enable this by setting the value to true
 - Add your NitroType accounts into the file named accounts.txt and be sure to use `username:password` format
 - Open command prompt and run `pip install colorama cloudscraper websocket-client paramiko requests capsolver`
 - Run main.py or start.bat
+
+Capsolver recommended for the console to work properly, please purchase a key [here](https://dashboard.capsolver.com/passport/register?inviteCode=StGPg6LhBb5j)
+Use code `ADSPOWER` for an extra 8% credits
