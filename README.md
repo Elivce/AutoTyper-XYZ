@@ -6,7 +6,7 @@ This is the downloadable for the console version of the famous NitroType Bot kno
 - Lifetime Purchase: $20  
 
 ### Setup
-- [Download Python Version 3.11.5](https://www.python.org/downloads/)
+- [Download Python Version 3.11.5](https://www.python.org/downloads/release/python-3115/)
 - Download the bot and extract the zip file
 - Set up the config.json
 ```json
