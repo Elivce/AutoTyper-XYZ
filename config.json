@@ -7,7 +7,7 @@
     "RACE_FUNCTION":{
         "FAST_MODE": false,
         "WPM_RANGE": [80,90],
-        "NITROS": true,
+        "NITROS": true
     },
     "LOGGING":{
         "ENABLE": false,
