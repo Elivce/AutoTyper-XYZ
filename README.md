@@ -19,7 +19,7 @@ This is the downloadable for the console version of the famous NitroType Bot kno
     "RACE_FUNCTION":{
         "FAST_MODE": false,
         "WPM_RANGE": [80,90],
-        "NITROS": true,
+        "NITROS": true
     },
     "LOGGING":{
         "ENABLE": false,
