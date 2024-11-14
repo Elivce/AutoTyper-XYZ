@@ -1,6 +1,0 @@
-colorama
-cloudscraper
-websocket-client
-paramiko
-requests
-capsolver
