@@ -3,7 +3,7 @@ This is the downloadable for the console version of the famous NitroType Bot kno
 
 ### Support
 - Discord: https://discord.gg/nitrotypebot
-- Lifetime Purchase: $20  
+- Lifetime Purchase: $20
 
 ### Setup
 - [Download Python Version 3.11.5](https://www.python.org/downloads/release/python-3115/)
