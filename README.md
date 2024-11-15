@@ -17,7 +17,7 @@ This is the downloadable for the console version of the famous NitroType Bot kno
         "CAPSOLVER_KEY": "capsolver is highly recommended"
     },
     "RACE_FUNCTION":{
-        "FAST_MODE": false,
+        "FAST_MODE": true,
         "WPM_RANGE": [80,90],
         "NITROS": true
     },
