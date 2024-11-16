@@ -32,4 +32,4 @@ This is the downloadable for the console version of the famous NitroType Bot kno
 - Run main.py or start.bat
 
 Capsolver recommended for the console to work properly, please purchase a key [here](https://dashboard.capsolver.com/passport/register?inviteCode=StGPg6LhBb5j)
-Use code `ADSPOWER` for an extra 8% credits
+Use code `ADSPOWER` for an extra 8% credits!
