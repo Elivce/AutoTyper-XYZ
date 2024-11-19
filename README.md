@@ -11,19 +11,19 @@ This is the downloadable for the console version of the famous NitroType Bot kno
 - Set up the config.json
 ```json
 {
-    "KEY": "license key",
+    "KEY": "", Your License Key
     "CAPSOLVER": {
-        "ENABLE": false,
-        "CAPSOLVER_KEY": "capsolver is highly recommended"
+        "ENABLE": false, Enables Capsolver (True or False)
+        "CAPSOLVER_KEY": "" Capsolver Key
     },
     "RACE_FUNCTION":{
-        "FAST_MODE": true,
-        "WPM_RANGE": [80,90],
-        "NITROS": true
+        "FAST_MODE": true, Races Faster (True or False)
+        "WPM_RANGE": [80,90], Bot WPM Min speed and Max Speed
+        "NITROS": true Use Nitros (True or False)
     },
     "LOGGING":{
-        "ENABLE": false,
-        "WEBHOOK": "put webhook link here"
+        "ENABLE": false, Discord Webhook Logging (True or False)
+        "WEBHOOK": "" Insert Discord Webhook URL Here 
     }
 }
 ```
