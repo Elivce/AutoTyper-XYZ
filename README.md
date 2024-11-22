@@ -19,6 +19,7 @@ This is the downloadable for the console version of the famous NitroType Bot kno
     "RACE_FUNCTION":{
         "FAST_MODE": true, Races Faster (True or False)
         "WPM_RANGE": [80,90], Bot WPM Min speed and Max Speed
+        "ACCURACY_RANGE": [85,100], Bot Min Accuracy and Max Accuracy
         "NITROS": true Use Nitros (True or False)
     },
     "LOGGING":{
