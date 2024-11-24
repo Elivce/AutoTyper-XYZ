@@ -2,16 +2,16 @@
     "KEY": "license key",
     "CAPSOLVER": {
         "ENABLE": false,
-        "CAPSOLVER_KEY": "capsolver is highly recommended"
+        "CAPSOLVER_KEY": "put cap key here"
     },
     "RACE_FUNCTION":{
-        "FAST_MODE": true,
+        "FAST_MODE": false,
         "WPM_RANGE": [80,90],
         "ACCURACY_RANGE": [85,100],
         "NITROS": true
     },
     "LOGGING":{
         "ENABLE": false,
-        "WEBHOOK": "put webhook link here"
+        "WEBHOOK": "put discord webhook link here"
     }
 }
