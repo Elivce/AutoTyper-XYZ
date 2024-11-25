@@ -4,3 +4,4 @@ paramiko
 requests
 capsolver
 fake-useragent
+colorama
