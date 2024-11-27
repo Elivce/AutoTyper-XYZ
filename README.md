@@ -29,7 +29,7 @@ This is the downloadable for the console version of the famous NitroType Bot kno
 }
 ```
 - Add your NitroType accounts into the file named accounts.txt and be sure to use `username:password` format
-- Open command prompt and run `pip install colorama cloudscraper websocket-client paramiko requests capsolver`
+- Open command prompt and run `pip install colorama fake-useragent cloudscraper websocket-client paramiko requests capsolver pycryptodome random-word`
 - Run main.py or start.bat
 
 Capsolver recommended for the console to work properly, please purchase a key [here](https://dashboard.capsolver.com/passport/register?inviteCode=StGPg6LhBb5j)
