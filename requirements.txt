@@ -1,7 +1,9 @@
+colorama
+fake-useragent
 cloudscraper
 websocket-client
 paramiko
 requests
 capsolver
-fake-useragent
-colorama
+pycryptodome
+random-word
