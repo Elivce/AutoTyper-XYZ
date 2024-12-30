@@ -2,7 +2,7 @@
 This is the downloadable for the console version of the famous NitroType Bot known as AutoTyper XYZ
 
 ### Support
-- Discord: https://discord.gg/2jdVd8gm
+- Discord: https://discord.gg/C4ZNWbkKhr
 - Lifetime Purchase: $20
 
 ### Setup
