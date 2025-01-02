@@ -20,7 +20,8 @@ This is the downloadable for the console version of the famous NitroType Bot kno
         "FAST_MODE": true, Races Faster (True or False)
         "WPM_RANGE": [80,90], Bot WPM Min speed and Max Speed
         "ACCURACY_RANGE": [85,100], Bot Min Accuracy and Max Accuracy
-        "NITROS": true Use Nitros (True or False)
+        "NITROS": true, Use Nitros (True or False)
+        "STICKERS": false, Use Stickers (True or False)
     },
     "LOGGING":{
         "ENABLE": false, Discord Webhook Logging (True or False)
