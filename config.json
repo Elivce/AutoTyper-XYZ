@@ -1,14 +1,15 @@
 {
     "KEY": "license key",
     "CAPSOLVER": {
-        "ENABLE": false,
+        "ENABLE": true,
         "CAPSOLVER_KEY": "put cap key here"
     },
     "RACE_FUNCTION":{
         "FAST_MODE": false,
         "WPM_RANGE": [80,90],
         "ACCURACY_RANGE": [85,100],
-        "NITROS": true
+        "NITROS": true,
+        "STICKERS": false
     },
     "LOGGING":{
         "ENABLE": false,
