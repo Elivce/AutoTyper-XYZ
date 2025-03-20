@@ -1,3 +1,4 @@
+# This project has been discontinued and will not be updated
 # AutoTyper-XYZ
 This is the downloadable for the console version of the famous NitroType Bot known as AutoTyper XYZ
 
