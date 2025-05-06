@@ -1,9 +1,9 @@
-# This project has been discontinued and will not be updated
+# This project has been discontinued- Please Join the Discord Server for updated version
 # AutoTyper-XYZ
 This is the downloadable for the console version of the famous NitroType Bot known as AutoTyper XYZ
 
 ### Support
-- Discord: https://discord.gg/nitrotypebot
+- Discord: https://discord.gg/nitrotype
 - Lifetime Purchase: $20
 
 ### Setup
