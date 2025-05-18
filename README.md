@@ -4,7 +4,7 @@ This is the downloadable for the console version of the famous NitroType Bot kno
 
 ### Support
 - Discord: https://discord.gg/nitrotype
-- Lifetime Purchase: $20
+- ~~Lifetime Purchase: $20~~
 - Programmed By Elivce
 
 ### Setup
