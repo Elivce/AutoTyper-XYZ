@@ -5,6 +5,7 @@ This is the downloadable for the console version of the famous NitroType Bot kno
 ### Support
 - Discord: https://discord.gg/nitrotype
 - Lifetime Purchase: $20
+- Programmed By Elivce
 
 ### Setup
 - [Download Python Version 3.11.5](https://www.python.org/downloads/release/python-3115/)
